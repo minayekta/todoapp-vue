@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # todoapp-vue
-=======
-# vueproject2
 
 ## Project setup
 ```
